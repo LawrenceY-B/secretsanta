@@ -67,10 +67,6 @@ body {
 	overflow: hidden;
 }
 
-.demo-1 {
-	
-}
-
 /* Page Loader */
 .js .loading::before,
 .js .loading::after {
@@ -170,7 +166,7 @@ main {
 	z-index: 600;
 	top: 0;
 	width: 100%;
-	padding: 1.5rem;
+	padding: 0rem;
 	display: grid;
 	grid-template-columns: auto auto 1fr auto;
 	grid-template-rows: auto;
